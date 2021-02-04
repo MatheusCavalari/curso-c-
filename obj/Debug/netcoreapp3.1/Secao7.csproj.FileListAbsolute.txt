@@ -1,0 +1,13 @@
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\bin\Debug\netcoreapp3.1\Secao7.exe
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\bin\Debug\netcoreapp3.1\Secao7.deps.json
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\bin\Debug\netcoreapp3.1\Secao7.runtimeconfig.json
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\bin\Debug\netcoreapp3.1\Secao7.runtimeconfig.dev.json
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\bin\Debug\netcoreapp3.1\Secao7.dll
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\bin\Debug\netcoreapp3.1\Secao7.pdb
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.csprojAssemblyReference.cache
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.AssemblyInfoInputs.cache
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.AssemblyInfo.cs
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.csproj.CoreCompileInputs.cache
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.dll
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.pdb
+C:\Users\dayan\Desktop\MATHEUS\C#\Udemy\Secao7\obj\Debug\netcoreapp3.1\Secao7.genruntimeconfig.cache
