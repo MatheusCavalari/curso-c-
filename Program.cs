@@ -166,6 +166,7 @@ namespace Secao7
             Console.WriteLine("d1 kind: "+ d1.Kind);
             Console.WriteLine("d1 To Local: " + d2.ToLocalTime());
             Console.WriteLine("di To Utc" + d3.ToUniversalTime());
+            Console.WriteLine("Olá, eu sou um teste");
             
 
 
